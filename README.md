@@ -607,7 +607,7 @@
     <div class="hero-names">
     류치열<span>&amp;</span>이정은
     </div>
-    <p class="hero-date">2026. 11. 14 · 토요일 · 오후 13:30</p>
+    <p class="hero-date">2026. 11. 14 · SAT · 13:30</p>
   </div>
   <div class="scroll-hint">SCROLL</div>
 </section>
@@ -784,12 +784,12 @@
 
 <!-- FOOTER -->
 <footer>
-  <p class="footer-couple">Minjun &amp; Seoyeon</p>
+  <p class="footer-couple">치열 &amp; 정은</p>
   <span class="footer-heart">♡</span>
   <p style="font-family:'Noto Sans KR',sans-serif;font-weight:300;font-size:12px;opacity:0.45;letter-spacing:0.1em;line-height:2;">
     소중한 날 함께해 주셔서 감사합니다.
   </p>
-  <p class="footer-date">2025 · 06 · 14</p>
+  <p class="footer-date">2026 · 11 · 14</p>
 </footer>
 
 <script>
